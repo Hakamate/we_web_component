@@ -11,6 +11,15 @@
                 },
                 "type": "Color"
             }
+        },
+        "settingsOptions": {
+            "title": {
+                "label": {
+                    "en": "Title"
+                },
+                "type": "Text",
+                "multiLang": true
+            }
         }
     }
 }

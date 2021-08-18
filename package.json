@@ -9,6 +9,9 @@
     "vue": "^2.6.12"
   },
   "devDependencies": {
-    "@weweb/cli": "latest"
+    "@weweb/cli": "latest",
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
   }
 }
